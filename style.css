@@ -1,0 +1,56 @@
+.button{
+    padding:10px, 10px;
+    background-color:red ;
+    border:none;
+    color:white;
+    font-size: 15px;
+    border-radius: 5px;
+}
+.button :hover{
+    background-color: rgb(244, 115, 10);
+}
+.b1{
+    padding:300px, 300px;
+    margin:20px, 20px;
+}
+.top{
+    background-image: linear-gradient(65deg, black, transparent),url("https://dkr0pu7ej5xex.cloudfront.net/wp-content/uploads/2017/04/24135159/Netflix-Background.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    font-family: Helvetica, sans-serif, Arial;
+ 
+    color:white;
+}
+.top span{
+    display:inline;
+}
+.center{
+    margin-top: 15%;
+    margin-left: 10%;
+    margin-bottom: 15%;
+    display: inline-block;
+}
+.center span{
+    font-size: 60px;
+}
+table{
+    width:100%;
+    background:black;
+}
+td{
+    width:50%;
+
+}
+table hr{
+    height:6px;
+    background-color: rgb(35, 35, 35);
+    border-width: 0;
+}
+#head{
+    padding:90%, 0%;
+
+}
+body{
+    color:white;
+}
