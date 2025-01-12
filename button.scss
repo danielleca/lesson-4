@@ -1,0 +1,12 @@
+@import './variable.scss';
+.button{
+    @include padding(10px, 10px);
+    background-color:$button-color ;
+    border:none;
+    color:$textcolor;
+    font-size: 15px;
+    border-radius: 5px;
+    &:hover{
+        background-color: rgb(244, 115, 10);
+    }
+}
